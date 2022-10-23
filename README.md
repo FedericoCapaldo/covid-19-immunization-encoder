@@ -17,6 +17,7 @@ TO RUN:
 
 4. Generate QR code with the string from step 3 here `https://www.qr-code-generator.com/solutions/text-qr-code/` and done, you can scan it (probably you will need to enlarge the code to be able to scan it).
 
+Note: Android QR code scanning doesn't seem abilitated to scan this code. iPhone will scan and understand it correctly. 
 
 If you are curious you can see the content of `HC1:` encoded string use this decoder `https://dencode.com/en/string/base45`
 
